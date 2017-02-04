@@ -228,17 +228,17 @@ header {
 
 footer { 
   width: 950px;
-  font: normal 130% 'News Cycle',  arial, sans-serif;
-  height: 90px;
-  padding: 20px 0 5px 0;
+  font: normal 80% 'News Cycle',  arial, sans-serif;
+  height: 45px;
+  padding: 10px 0 5px 0;
   text-align: center; 
   color: #222;
   background: #FFF;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 footer p { 
-  padding: 0 0 10px 0;
+  padding: 0 0 5px 0;
 }
 
 footer a, footer a:hover { 
