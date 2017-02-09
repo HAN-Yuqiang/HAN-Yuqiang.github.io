@@ -26,7 +26,8 @@ article, aside, figure, footer, header, hgroup, nav, section {
 
 body { 
   font: normal .85em arial, sans-serif;
-  background: #F2F2F2;
+  /*background: #F2F2F2;*/
+  background: #B4B4B6;
   color: #444;
   padding-bottom: 40px;
 }
