@@ -19,7 +19,7 @@ background-color:white;
 }
 
 a:active  {}
-a:hover   {background-color:yellow}
+/*a:hover   {background-color:yellow}*/
 
 a.nav:active  {color:red}
 a.nav:hover   {color:red;background-color:lightblue}
